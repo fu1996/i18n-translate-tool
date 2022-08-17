@@ -10,7 +10,7 @@
     "itt": "./index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "fujunkui",
   "license": "ISC",
   "dependencies": {
     "@vitalets/google-translate-api": "^8.0.0",

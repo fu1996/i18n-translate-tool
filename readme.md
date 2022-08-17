@@ -7,6 +7,22 @@
 npm i -g i18n-translate-tool
 ```
 
+# 测试安装是否成功
+安装成功后，`itt` 会全局可用
+
+```bash
+itt -h
+```
+输入内容如下：
+```bash
+Options:
+  -V, --version                output the version number
+  -f, --file [file]            导入待翻译的文件以及目标语言
+  -d, --dist [file]            输出翻译后的结果，默认会覆盖源文件
+  -p, --param [translate key]  取被翻译文件对象的 keys 或者 values (default: "keys")
+  -h, --help                   display help for command
+```
+
 # 配置如下：
 
 - -f, --file 被翻译的文件

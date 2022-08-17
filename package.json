@@ -1,0 +1,22 @@
+{
+  "name": "i18n-translate-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "itt": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^8.0.0",
+    "chalk": "^5.0.1",
+    "commander": "^9.4.0",
+    "google-translate-api-x": "^10.3.5",
+    "inquirer": "^8.2.4"
+  }
+}

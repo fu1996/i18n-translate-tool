@@ -16,6 +16,7 @@
     "@vitalets/google-translate-api": "^8.0.0",
     "chalk": "^5.0.1",
     "commander": "^9.4.0",
+    "esm": "^3.2.25",
     "google-translate-api-x": "^10.3.5",
     "inquirer": "^8.2.4"
   }

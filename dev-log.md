@@ -3,3 +3,6 @@
 - commander 接受命令行参数 (https://github.com/tj/commander.js/blob/HEAD/Readme_zh-CN.md)
 - inquirer 交互式命令行
 
+# 难点
+
+- commonJs 去 读取 esm 暴露的变量信息

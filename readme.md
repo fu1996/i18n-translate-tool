@@ -77,3 +77,10 @@ export const a = {
 }
 
 ```
+
+# 后续开发计划
+
+- 支持指定翻译源
+- 支持配置文件化
+- 支持增加忽略文件或者包含文件规则
+- 增加监听文件变化 chokidar https://www.npmjs.com/package/chokidar

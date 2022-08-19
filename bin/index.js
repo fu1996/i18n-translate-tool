@@ -7,9 +7,9 @@ const chalk = require("chalk");
 const { set, get } = require("lodash");
 const inquirer = require("inquirer");
 const esmRequire = require("esm")(module /*, options*/);
-const { translateArray } = require("./translate");
-const template = require("./template");
-const packageJson = require("./package.json");
+const { translateArray } = require("../translate");
+const template = require("../template");
+const packageJson = require("../package.json");
 
 const log = console.log;
 
